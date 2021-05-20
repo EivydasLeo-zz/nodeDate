@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EivydasLeo/nodeDate/issues"
   },
-  "homepage": "https://github.com/EivydasLeo/nodeDate#readme"
+  "homepage": "https://github.com/EivydasLeo/nodeDate#readme",
+  "dependencies": {
+    "date-fns": "^2.21.3"
+  }
 }
