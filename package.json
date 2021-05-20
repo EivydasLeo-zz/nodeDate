@@ -1,0 +1,22 @@
+{
+  "name": "nodedate",
+  "version": "1.0.0",
+  "description": "Test out some date fns",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EivydasLeo/nodeDate.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "E.L.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EivydasLeo/nodeDate/issues"
+  },
+  "homepage": "https://github.com/EivydasLeo/nodeDate#readme"
+}
